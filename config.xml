@@ -24,6 +24,8 @@
 <plugin name="cordova-android-support-gradle-release"/>
 <plugin name="cordova-plugin-enable-multidex"/>
 <plugin name="cordova-plugin-statusbar"/>
+<plugin name="cordova-plugin-navigationbar"/>
+<plugin name="cordova-plugin-shake"/>
 <plugin name="cordova-plugin-device" spec="2.0.2"/>
 <plugin name="cordova-plugin-compat" spec="1.2.0"/>
 <plugin name="cordova-plugin-file" spec="6.0.1"/>
